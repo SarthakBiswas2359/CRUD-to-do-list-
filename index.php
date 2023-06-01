@@ -5,7 +5,7 @@
 $insert = false;
 $update = false;
 $delete = false;
-$servername = "localhost:3307";
+$servername = "localhost";
 $username = "username";
 $password = "password";
 $database = "notes";
